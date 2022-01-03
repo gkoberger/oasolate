@@ -1,12 +1,16 @@
 {
   "name": "oasolate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "github:gkoberger/oasolate"
+  },
+  "author": "Gregory Koberger",
   "license": "ISC",
   "dependencies": {
     "js-yaml": "^4.1.0",
